@@ -11,12 +11,12 @@ Django prodject for managing cars and drivers in taxi service
 Python3 must be already installed
 
 ''' shell
-git clone https://github.com/drivemax26/taxi-service
-cd taxi-service
-python3 -m venv venv 
-source venv/bin/activate
-pip install -r requirements.txt
-python manage.py runserver # start Django Server
+    git clone https://github.com/drivemax26/taxi-service
+    cd taxi-service
+    python3 -m venv venv 
+    source venv/bin/activate
+    pip install -r requirements.txt
+    python manage.py runserver # start Django Server
 
 # Features
 
