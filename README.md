@@ -13,13 +13,13 @@ password: user12345
 
 Python3 must be already installed
 
-''' shell
-    git clone https://github.com/drivemax26/taxi-service
-    cd taxi-service
-    python3 -m venv venv 
-    source venv/bin/activate
-    pip install -r requirements.txt
-    python manage.py runserver # start Django Server
+''' shell <br>
+    git clone https://github.com/drivemax26/taxi-service <br>
+    cd taxi-service <br>
+    python3 -m venv venv <br>
+    source venv/bin/activate <br>
+    pip install -r requirements.txt <br>
+    python manage.py runserver # start Django Server <br>
 
 # Features
 
